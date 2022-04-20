@@ -1,0 +1,64 @@
+{
+    "beerList": [
+        {
+            "name": "Tusker Lager",
+            "tagline": "My beer, my country",
+            "description": "The taste is very grainy and malted barley, but all on the faint thin level. It has the feel of a regular lager, but not going to set the world alight, and truth be told it is a little boring to drink, light and thin, and has an overall flat taste to it all.",
+            "first_brewed": "1922"
+        },
+        {
+            "name": "Pilsner Lager",
+            "tagline": "Its all about the beer. Loose the carbs.",
+            "description": "It is a type of light-colored lager that maintains its bright color while undergoing a process called “lagering” during production",
+            "first_brewed": "1307"
+        },
+        {
+           "name": "Smirnoff Vodka",
+            "tagline": "Clearly Smirnoff",
+            "description": "With its crisp taste and bubbly finish, Smirnoff Ice Original features natural lemon lime flavor. Lightly carbonated, Smirnoff Ice has a delicious citrus bite, along with a refreshing effervescence. Enjoy chilled and drink responsibly.",
+            "first_brewed": "1860s"
+        },
+        {
+           "name": "Hennessy",
+            "tagline": "Mix accordingly.",
+            "description": "Overall, they have a classic brandy taste, with a sweet fruitiness similar to burnt wine mellowed by a pleasant oakiness. You'll find floral and fruit (particularly citrus) notes in these cognacs, and hints of spice, vanilla, and chocolate are common",
+            "first_brewed": "1764"
+        },
+        {
+            "name": "Guiness",
+            "tagline": "Good things comes to those who wait",
+            "description": "Guinness is an Irish dry stout that originated in the brewery of Arthur Guinness at St. James's Gate, Dublin, Ireland",
+            "first_brewed": "1759"
+        },
+         {
+            "name": "Budweiser",
+            "tagline": "Where there's life, there's Bud. For all you do, this Bud's for you",
+            "description": "Where there's life, there's Bud. For all you do, this Bud's for you",
+            "first_brewed": "1876"
+        },
+         {
+            "name": "Heineken",
+            "tagline": "Open your world",
+            "description": "Heineken is a high-quality European pale lager made from 100% natural ingredients. There are only three ingredients in this beer: barley, hops, and water. Overall it has a bitter, sweet taste with biscuity malt flavor and a hint of sweet corn and green apple, which make it intriguing.",
+            "first_brewed": "1873"
+        },
+         {
+            "name": "Sierra Vodka",
+            "tagline": "The only vodka made entirely in Lake Tahoe from 100% Sierra Nevada water.",
+            "description": "Sweet aromas allude to the base grain of corn. Though the aromas are faint, the absence of flaws is remarkable.",
+            "first_brewed": "2012"
+        },
+         {
+            "name": "Summit Lager",
+            "tagline":"The home of quality",
+            "description": "The taste is sweet and light, grain and mildly metallic with a little carbonation bite. The mouth feel is light bodied, oily with moderate carbonation. The aroma is of light cereal grains and syrup with a faint clean mouth feel to it.",
+            "first_brewed": "1997"
+        },
+         {
+            "name": "Budlight",
+            "tagline": "The perfect beer for removing 'no' from your vocabulary for the night",
+            "description": "Bud Light is clean, crisp and ideal for hot-weather consumption. It tastes like a slightly alcoholic cream soda. It also positively crushes, sales-wise, every other beer in America",
+            "first_brewed": "1857"
+        }
+    ]
+}
